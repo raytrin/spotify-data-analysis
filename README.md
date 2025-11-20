@@ -35,7 +35,7 @@ média das faixas e comportamento da usuária nas playists.
 **O conjunto de dados apresentou desafios na análise dos gêneros musicais mais ouvidos, devido à falta de dados suficientes.**
 
 ## 📁 Como visualizar:
-
+ 📓 [Notebook](spotify-data-analysis.ipynb)
 
 
 
